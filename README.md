@@ -2,9 +2,9 @@
 
 ## Interactive Dashboard Link
 
-**[View the Interactive Dashboard Here on Netlify](https://campus-waste-dashboard.netlify.app/)**
+**[View the Interactive Dashboard Here](https://pushyamiparitala.github.io/wms/)**
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-app-id/deploy-status)](https://app.netlify.com/sites/campus-waste-dashboard/deploys)
+
 
 ## Project Overview
 
