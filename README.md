@@ -1,11 +1,5 @@
 # Campus Waste Management Dashboard
 
-## Interactive Dashboard Link
-
-**[View the Interactive Dashboard Here on Netlify](https://campus-waste-dashboard.netlify.app/)**
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-app-id/deploy-status)](https://app.netlify.com/sites/campus-waste-dashboard/deploys)
-
 ## Project Overview
 
 This interactive web-based visualization dashboard presents a comprehensive analysis of campus waste management data. It tells a compelling story about waste generation patterns, material distribution, and opportunities for improvement in sustainability practices.
@@ -46,4 +40,4 @@ To run this project locally:
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Start the development server with `npm start`
-4. Build for production with `npm run build` 
+4. Build for production with `npm run build`
