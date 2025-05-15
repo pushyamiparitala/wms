@@ -2,7 +2,9 @@
 
 ## Interactive Dashboard Link
 
-**[View the Interactive Dashboard Here](https://pushyami.github.io/DataVizProj/)**
+**[View the Interactive Dashboard Here on Netlify](https://campus-waste-dashboard.netlify.app/)**
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/your-app-id/deploy-status)](https://app.netlify.com/sites/campus-waste-dashboard/deploys)
 
 ## Project Overview
 
@@ -44,5 +46,4 @@ To run this project locally:
 1. Clone the repository
 2. Install dependencies with `npm install`
 3. Start the development server with `npm start`
-4. Build for production with `npm run build`
-5. Deploy to GitHub Pages with `npm run deploy` 
+4. Build for production with `npm run build` 
