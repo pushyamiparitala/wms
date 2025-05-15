@@ -1,6 +1,6 @@
 # Campus Waste Management Dashboard
 
-## Interactive Dashboard Link
+
 
 **[View the Interactive Dashboard Here](https://pushyamiparitala.github.io/wms/)**
 
